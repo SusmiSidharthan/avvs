@@ -1,0 +1,18 @@
+
+
+
+
+@media screen and (max-width: 767px) {
+    .ser-sec134{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+        padding-right: 20px;       
+    }
+    .ser-sec134 .ser-sec134-1{
+        margin-bottom: 30px;
+    }
+    .ser-sec134 .ser-sec134-2{
+        text-align: left !important;
+    }
+}

@@ -1,0 +1,38 @@
+.input-nmvh-12 .input-nmvh-13 input[type=number].number::-webkit-inner-spin-button,
+.input-nmvh-12 .input-nmvh-13 input[type=number].number::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-nmvh-12 .input-nmvh-13 input[type=number].number {
+  -moz-appearance: textfield;
+}
+.input-nmvh-12 .input-nmvh-13{
+    display:flex;
+}
+.input-nmvh-12 .input-nmvh-13 .subb, .input-nmvh-12 .input-nmvh-13 .addd{
+    background: #ddd;
+    padding: 6px;
+    width: 28px;
+    height: 35px;
+    border: 1px solid #ddd;
+}
+.input-nmvh-12 .input-nmvh-13 .subb:focus, .input-nmvh-12 .input-nmvh-13 .addd:focus{
+    outline:0;
+    border: 1px solid #ddd;
+}
+.input-nmvh-12 .input-nmvh-13 .subb{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;    
+}
+.input-nmvh-12 .input-nmvh-13 .addd{
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.input-nmvh-12 .input-nmvh-13 .number{
+    border: 1px solid #ddd;
+    width: 40px;
+    height: 35px;
+    text-align: center;
+    color: #484848;
+}

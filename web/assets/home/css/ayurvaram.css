@@ -1,0 +1,229 @@
+.kesha-df113 .kesha-df113-4{
+    position: relative;
+}
+.kesha-df113 .kesha-df113-4 .kesha-df113-5{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 17px 20px;
+}
+
+.kesha-df113 .kesha-df113-1 .kesha-df113-6{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    flex-wrap: wrap;
+}
+.kesha-df113 .kesha-df113-1 .kesha-df113-6 .kesha-df113-7{
+    display: flex;
+    margin-bottom: 25px;
+}
+.kesha-df113 .kesha-df113-1 .kesha-df113-6 .kesha-df113-7 .kesha-df113-8{
+    margin-right: 10px;
+}
+.kesha-df113 .kesha-df113-1 .kesha-df113-6 .kesha-df113-7 .kesha-df113-8 .kesha-df113-11{
+    width: 40px;
+    height: 40px;
+    padding: 9px;
+    background: #27806e;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kesha-df113 .kesha-df113-1{
+    padding-left: 20px;
+}
+.kesha-df113 .kesha-df113-1 .kesha-df113-3{
+    column-count: 2;
+}
+.kesha-df113b .kesha-df113-1{
+    padding-left: 20px;
+}
+.navbar-dark .ayur-logo{
+    padding: 10px 0 10px;
+}
+
+
+
+.ayurvaram-banner {
+    position: relative;
+  }
+  .ayurvaram-banner .owl-nav {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 40px;
+  }
+  .ayurvaram-banner .owl-nav .owl-prev{
+    width: 40px;
+    height: 40px;
+    border: 1px #fff solid !important;
+    color: #fff !important;
+    font-size: 29px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 8px !important;
+  }
+  .ayurvaram-banner .owl-nav .owl-prev span{
+    line-height: 13px;
+    width: 20px;
+    height: 20px;
+  }
+  .ayurvaram-banner .owl-nav .owl-prev:hover{
+    border:1px #ffffff47 solid !important;
+    background: none;
+  }
+  .ayurvaram-banner .owl-nav .owl-next{
+    width: 40px;
+    height: 40px;
+    border: 1px #ffffff solid !important;
+    color: #fff !important;
+    font-size: 29px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 8px !important;
+  }
+  .ayurvaram-banner .owl-nav .owl-next span{
+    line-height: 13px;
+    width: 20px;
+    height: 20px;
+  }
+  .ayurvaram-banner .owl-nav .owl-next:hover{
+    border: 1px #ffffff47 solid !important;
+    background: none;
+  }
+  .ayur-secdk121{
+    background: #e7f7ee;
+  }
+  .ayur-secdk121 .ayur-sec112-1{
+    height: 100%;
+    padding: 25px 16px 34px;
+  }
+  .ayur-sec112 .ayur-sec112-4{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .ayur-secdk121 .ayur-sec112-1 .ayur-sec112-3{
+    column-count: 2;
+  }
+
+  .ayurad-ser12  img{
+    max-width:100%;
+    width:100%;
+  }
+
+.kesha-df113-4 .herbal-ayurveda .owl-nav.disabled + .owl-dots {
+    position: absolute;
+    z-index: 999;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+}
+.kesha-df113-4 .herbal-ayurveda .owl-dots .owl-dot span {
+    width: 13px;
+    height: 13px;
+    margin: 5px 7px;
+    background: #f2f2f2;
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity 200ms ease;
+    border-radius: 30px;
+}
+.kesha-df113-4 .herbal-ayurveda .owl-dots .owl-dot.active span, 
+.kesha-df113-4 .herbal-ayurveda .owl-dots .owl-dot:hover span {
+    background: #1799E8;
+}
+
+.ayur-ban85 {
+    position: relative;
+}
+
+  
+
+
+
+@media screen and (max-width: 991px) {
+    .kesha-df113 .kesha-df113-1 .kesha-df113-6 {
+        grid-template-columns: repeat(1,1fr);
+    }
+    .navbar-dark .ayur-logo img{
+        width: 142px;
+    }
+    .hmsli13.ayur-secgf13 .navbar-brand img {
+        width: 140px;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .navbar-dark .ayur-logo img {
+        width: 121px;
+    }
+    .kesha-df113{
+      background: #f2f6fc;
+      margin-bottom: 20px;
+      padding-top: 30px;
+      padding-bottom: 50px;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .kesha-df113b .kesha-df113-1 {
+        padding-left: 0;
+        margin-top: 20px;
+        margin-bottom: 0 !important;
+    }
+    .kesha-df113 .kesha-df113-1 {
+      padding-right: 0;
+      padding-left: 0;
+      margin-bottom: 0px;
+      margin-top: 15px;  
+    }
+    .kesha-df113 .kesha-df113-1 .kesha-df113-3 {
+      column-count: 1;
+    }
+    .kesha-df113 .kesha-df113-1 .kesha-df113-2{
+      margin-bottom: 15px;
+    }
+    .ayur-sec112{
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 25px;   
+    }
+    .ayurad-ser12{
+      margin-top: 30px;
+    }
+    .ayur-secdk121 .ayur-sec112-1 .ayur-sec112-2{
+      margin-bottom: 15px;
+    }
+    .ayur-sec112 .col-md-4{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .ayur-sec112 .ayur-sec112-4 {
+      height: 250px;
+    }
+    .ayur-sec112 .ayur-sec112-4 img{
+        max-width: 300px;
+    }
+    .line-114{
+        display: none;
+    }
+    .hmsli13.ayur-secgf13 .navbar-brand img {
+        width: 120px;
+    }
+    .ayur-secdk121 .ayur-sec112-1 .ayur-sec112-3 {
+      column-count: 1;
+    }
+}

@@ -1,0 +1,359 @@
+@media screen and (max-width: 991px) {
+
+
+    #global-nav {
+        padding: 0px 0px;
+    }
+
+    .sticky-header.sticky {
+        padding: 20px 0px;
+    }
+
+    section.home-intro .intro-inner h2 {
+        font-size: 30px;
+
+        span {
+            font-size: 55px;
+        }
+    }
+
+    section.about-tradition .tradition-inner h2 {
+        font-size: 30px;
+
+        span {
+            font-size: 55px;
+        }
+    }
+
+    section.company-profile .profile-content h4 {
+        font-size: 30px;
+        padding-top: 40px;
+        padding-bottom: 10px;
+
+    }
+
+    section.home-intro .intro-inner p {
+        font-size: 15px;
+    }
+
+    section.product-first h6 {
+        display: none;
+    }
+
+    section.product-first .gel-box {
+        width: 98%;
+
+        h4 {
+            font-size: 38px;
+        }
+    }
+
+
+    .orders-2 {
+        -webkit-order: 2;
+
+    }
+
+    .orders-1 {
+        -webkit-order: 1;
+        margin-top: 50px;
+
+    }
+
+    .vision-mision {
+        img {
+            width: 100%;
+        }
+    }
+
+    section.vision-mision img.mision-bg {
+        display: none;
+    }
+
+    .founder-area-1 {
+        text-align: center;
+    }
+
+    .founder-area-2 {
+        text-align: center !important;
+    }
+
+    .customNextBtn2 {
+        z-index: 999;
+        top: 40%;
+    }
+
+    .customPreviousBtn2 {
+        z-index: 999;
+        top: 40%;
+    }
+
+    section.banner-inner-classic img.banner-right-img,
+    section.banner-inner-classic img.about-banner-left-img,
+    section.banner-inner img.banner-right-img,
+    section.banner-inner img.about-banner-left-img {
+        opacity: .5;
+    }
+
+    section.classic-link .butterfly-area {
+        background-size: cover;
+        min-height: 400px;
+    }
+
+    section.extra-content-area h5 {
+        font-size: 35px;
+
+        span {
+            font-size: 45px;
+        }
+    }
+
+    
+    .humburger{
+        left: 85%;
+        right: inherit;
+    }
+    
+    section.ayur-service-1 .ayur-content h2, section.ayur-service-2 .ayur-content h2{
+        padding-top: 15px;
+    }
+    .ayur-thumb-img{
+        width:100%;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    section.contact-common .contact-image-comn {
+        text-align: center;
+    }
+
+    .contact-text-common {
+        text-align: center;
+    }
+
+    section.contact-common .contact-text-common h5 {
+        text-align: center;
+    }
+
+    .contact-texts {
+        text-align: center;
+        justify-content: center !important;
+
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    section.shop-area {
+        padding: 50px 0px;
+    }
+
+    .read-mre-line {
+        font-size: 14px;
+    }
+
+    .logo-wrap {
+        width: 55%;
+    }
+
+    section.product-first h6 {
+        display: none;
+    }
+
+    section.product-first .gel-box {
+        width: 100%;
+    }
+
+    section.home-intro {
+        padding: 120px 0px 50px;
+    }
+
+    .bottle-image {
+        display: none;
+    }
+
+    section.product-first .botle-text {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    section.product-first .botle-text h3 {
+        text-align: center;
+    }
+
+    section.product-first .botle-text h5 {
+        text-align: center;
+        float: inherit;
+    }
+
+    section.product-first .pr-right-area p {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .pr-right-area {
+        padding: 0px 15px;
+
+        .read-mre-line {
+            margin: auto;
+        }
+
+    }
+
+    section.product-first {
+        padding-bottom: 50px;
+    }
+
+    section.product-first .gel-box h4 {
+        font-size: 35px;
+    }
+
+    section.pr-grid {
+        padding: 50px 0px;
+    }
+
+    section.shop-area .shop-inner-homer h4 {
+        font-size: 35px;
+    }
+
+    section.shop-area .shop-inner-homer p {
+        font-size: 15px;
+    }
+
+    section.testimonial {
+        padding: 50px 0px;
+    }
+
+    section.contact-common {
+        padding: 50px 0px;
+    }
+
+    section.contact-common .contact-text-common h5 {
+        font-size: 35px;
+    }
+
+    section.testimonial .testi p {
+        font-size: 17px;
+    }
+
+    section.staff-grid {
+        padding: 0px 10px 50px;
+    }
+
+    section.vision-mision {
+        padding: 50px 0;
+    }
+
+    section.activity-area {
+        padding: 50px 0;
+    }
+
+    section.activity-area h4 {
+        padding: 0px 0px 25px;
+
+    }
+
+    section.company-profile {
+        padding: 50px 0;
+    }
+
+    section.producs-classic .classic-list {
+        margin-bottom: 15px;
+    }
+
+    section.extra-content-area,
+    section.producs-classic {
+        padding: 50px 0px;
+    }
+
+    section.intro-classic {
+        padding: 125px 0px 50px;
+    }
+
+    section.banner-inner-classic img.pot-banner {
+        width: 40%;
+    }
+
+    section.banner-inner-classic h1 {
+        font-size: 40px;
+    }
+    
+    footer.futer .footer-line{
+            margin: 40px 0px 40px;
+    }
+    footer.futer{
+            padding: 50px 0px 50px;
+    }
+
+
+}
+
+
+@media screen and (max-width: 1122px) {
+    footer.futer .link-area ul li {
+        font-size: 15px;
+        padding-left: 20px;
+    }
+}
+
+@media screen and (max-width: 571px) {
+    section.pr-grid {
+        &::after {
+            display: none;
+
+        }
+
+        &::before {
+            display: none;
+        }
+    }
+
+}
+
+@media screen and (max-width: 497px) {
+
+    section.banner-inner img.banner-right-img,
+    section.banner-inner img.about-banner-left-img,
+    section.banner-inner-classic img.about-banner-left-img,
+    section.banner-inner-classic img.banner-right-img {
+        display: none;
+    }
+
+    section.about-tradition img.about-body-img-1 {
+        display: none;
+    }
+
+    section.vision-mision img.mision-bg {
+        display: none;
+    }
+
+    section.about-tradition img.about-body-img-1 {
+        display: none;
+    }
+
+
+
+}
+
+@media screen and (max-width: 424px) {
+    footer.futer .link-area ul li {
+        font-size: 13px;
+        margin-right: 0px;
+        padding-left: 8px;
+    }
+    
+    .humburger{
+        left: 80%;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    section.newsevents .news-grid .news-thumb img{
+        width: 100%;
+    }
+    
+     section.newsevents .news-grid-inner .news-thumb img{
+        width: 100%;
+    }
+}

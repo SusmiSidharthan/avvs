@@ -1,0 +1,220 @@
+
+.com-prov94{
+    background: #f7f4f1;
+}
+.com-prov94 .com-prov98{
+    column-count: 2;
+    grid-column-gap: 30px;
+    margin-right: 30px;
+}
+.abt-top-ban img{
+    max-width: 100%;
+    width:100%;
+}
+
+
+.about-company .about-company2-1 .about-company2-2 {
+    border-radius: 80px;
+    overflow: hidden;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+
+.our-vidf99 .our-vidf100{
+    padding:0 20px;
+}
+.our-vidf99 .our-vidf100 .our-vidf102{
+    margin: 0 25px;
+}
+
+.our-vidf99 .our-vidf100 .our-vidf103 img{
+    max-width:100%;
+}
+
+
+
+
+
+
+.valug-110 .valug-110-4 .valug-110-5{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    flex-wrap: wrap;
+}
+.valug-110 .valug-110-4 .valug-110-5 .valug-110-6{
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 7px;
+    min-height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.out-f111{
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.pro-fn93{
+    background: #e6eef7;
+    grid-template-columns: 200px auto;
+    height: 100%;
+    display: grid;
+}
+.pro-fn99{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pro-fn93 .pro-fswr12{
+    margin: 25px;
+}
+.rama-outs12{
+    margin-top: 20px;
+}
+.valug-110{
+    background: #f4f6f7;
+}
+
+@media screen and (max-width: 991px) {
+    .pro-fn93{
+        margin-bottom:10px;
+        height: auto;
+    }
+    .about-company .about-company2-1 .about-company2-2 {
+        border-radius: 50px;
+        border-bottom-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+    
+}
+
+@media screen and (max-width: 767px) {
+    .abt-ban88 .abt-ban89{
+        margin: 0 0 30px;
+        text-align: left !important;
+    }
+    .pro-fn97 .pro-fn91{
+        text-align: left !important;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+    .com-prov94 .com-prov94-1{
+        text-align: left;
+        margin-top: 30px;
+    }
+    .our-vidf99 .our-vidf100 {
+        margin-top: 0;
+        text-align: left;
+        margin-bottom: 30px;
+        padding: 0 0;
+    }
+    .our-vidf99 .our-vidf100 .our-vidf103 img {
+        width: 43px;
+    }
+    .our-vidf99 .our-vidf100 .our-vidf101{
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    .our-vidf104 .our-vidf109 {
+        justify-content: flex-start;
+        margin: 0 0 30px 0;
+    }
+    .valug-110 .valug-110-1{
+        margin-bottom: 30px;
+    }
+    .out-f111 .out-f111-1{
+        margin-bottom: 50px;
+    }
+    .pro-fn90 .pro-fn92 p{
+        text-align: left !important;
+    }
+    .valug-110 .valug-110-4 .valug-110-5 {
+        grid-template-columns: repeat(1,1fr);
+    }
+    .abt-ban88{
+        padding-top: 50px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .pro-fn90{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .abt-ban90 img{
+        max-width:70%;
+    }
+    .pro-fn90 .pro-fn99{
+        margin-bottom: 30px;
+    }
+    .com-prov94 {
+        margin: 0;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .com-prov94 .com-prov98 {
+        column-count: 1;
+        margin-right: 0;
+    }
+    .our-vidf99, .our-vidf104{
+        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .abt-ban88 .abt-ban89 .abt-ic-c12 img{
+        width: 30px;
+    }
+    .our-vidf104 .our-vidf105 {
+        margin-bottom: 0;
+    }
+    .valug-110{
+        padding-top: 50px;
+        padding-bottom: 50px;  
+        padding-left: 20px;
+        padding-right: 20px;    
+    }
+    .out-f111{
+        padding-top: 50px;
+        padding-bottom: 50px;  
+        padding-left: 20px;
+        padding-right: 20px;       
+    }
+    .out-f111 .row .col-md-6:last-child .out-f111-1{
+        margin-bottom: 0;
+    }
+    .abt-ban88 .abt-ban90{
+        text-align: left !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .pro-fn93 {
+        display: block;
+    }
+    .pro-fn90 .pro-fn99 {
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        margin: 16px 0 0 23px;
+        margin-bottom: 0;
+        border-radius: 100%;
+    }
+    .pro-fn93 .pro-fswr12 {
+        display: inline-block;
+    }
+}

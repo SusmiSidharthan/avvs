@@ -1,0 +1,93 @@
+.galry-sec131 .galry-sec131-2{
+    display: block;
+    padding: 0 20px;
+}
+.galry-sec131 .galry-sec131-1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.galry-sec131 .galry-sec131-1 .galry-sec131-5 .galry-sec131-3{
+    margin: 0px 0 15px;
+}
+
+.galry-sec131{
+    padding-bottom:50px;
+}
+
+.galry-sec131 .galry-sec131-2 img{
+    max-width:100%;
+}
+.galry-sec131 .galry-sec131-5 .galry-sec131-4{
+    display: inline-block;
+    padding: 10px 15px 12px 15px;
+    text-decoration: none;
+    background: #005F99;
+    border-radius: 5px;
+}
+.galry-sec131 .galry-sec131-5 .galry-sec131-4:hover{
+    opacity:0.5;
+}
+
+/* Gallery details Start */
+
+.gary-dets133 .demo-gallery #lightgallery{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    flex-wrap: wrap;
+}
+
+/* Gallery details End */
+
+@media screen and (max-width: 991px) {
+
+        /* Gallery details Start */
+
+        .gary-dets133 .demo-gallery #lightgallery{
+            grid-template-columns: repeat(2,1fr);
+        }
+    
+        /* Gallery details End */
+}
+
+@media screen and (max-width: 767px) {
+    .galry-sec131{
+        margin-bottom: 25px;
+    }
+    .galry-sec131 .galry-sec131-1 .galry-sec131-5 .galry-sec131-3{
+        margin-bottom: 20px;
+    }
+    .galry-sec132{
+        padding-top: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .galry-sec132 .galry-sec132-1{
+        margin-bottom: 50px
+    }
+
+    /* Gallery details Start */
+
+    .gary-dets133{
+        padding-top: 0;
+        padding-left: 20px;
+        padding-right: 20px;      
+    }
+    .gary-dets134{
+        padding-top: 50px;
+        padding-left: 20px;
+        padding-right: 20px;  
+    }
+    .gary-dets133 .demo-gallery #lightgallery{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .gary-dets134 .gary-dets134-1{
+        margin-bottom: 50px;
+    }
+
+    /* Gallery details End */
+}

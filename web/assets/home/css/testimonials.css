@@ -1,0 +1,54 @@
+.test-sec130 .test-sec130-2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 40px;
+    grid-row-gap: 75px;
+    flex-wrap: wrap;
+}
+.test-sec130 .test-sec130-2 .test-sec130-3{
+    display: flex;
+}
+.test-sec130 .test-sec130-2 .test-sec130-3 .test-sec130-4{
+    width: 80px;
+    min-width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    border: 1px #ddd solid;
+    overflow: hidden;
+    margin-right: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.test-sec130 .test-sec130-2 .test-sec130-3 .test-sec130-4 .test-sec130-5{
+    height: 100%;
+}
+.test-sec130 .test-sec130-2 .test-sec130-3 .test-sec130-5 .test-sec130-7 .test-sec130-8 .test-sec130-10 img{
+    width: 28px;
+}
+
+
+@media screen and (max-width: 991px) {
+    .test-sec130 .test-sec130-2 .test-sec130-3 .test-sec130-4 {
+        width: 50px;
+        min-width: 50px;
+        height: 50px;
+        margin-right: 15px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .test-sec130 .test-sec130-2 {
+        grid-template-columns: repeat(1,1fr);
+        grid-row-gap: 50px
+    }
+    .test-sec130{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .test-sec130 .test-sec130-1{
+        margin-bottom: 60px;
+    }
+}
